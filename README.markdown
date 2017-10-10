@@ -5,7 +5,6 @@
 - - -
 
 1. [Python](#python)
-
 1.1. [Python Pandas](#pythonpandas)
 
 - - -
