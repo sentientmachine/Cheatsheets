@@ -11,6 +11,11 @@
 2. [Rscript](#rscript)  
 2.1. [Neovim for r plugin](#neovim_for_r_plugin)  
 2.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
+
+
+3. [Regular Expressions](#regular_expressions)  
+3.1. [Regular Expressions PCRE](#regular_expressions_pcre)  
+
 4. [Bash](#bash)  
 4.1. [Bash Commands](#bash_commands)  
 5. [Github](#github)
@@ -56,6 +61,17 @@
 ### 2.2\. Data Visualization with R and ggplot2
 ![Alt text](data_viz_r_and_ggplot2_part1.png/?raw=true "")
 ![Alt text](data_viz_r_and_ggplot2_part2.png/?raw=true "")
+
+
+
+<a name="rscript"></a>
+## 3\. Regular Expressions
+
+<a name="neovim_for_r_plugin"></a>
+### 3.1\. Regular Expressions PCRE
+![Alt text](./regular_expressions_cheatsheet.png?raw=true "")
+
+
 
 
 <a name="bash"></a>
