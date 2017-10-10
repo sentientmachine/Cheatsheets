@@ -1,6 +1,6 @@
 
 - - -
-2. [Installation](#installation) 
+2. [Installation](#installation)
 2.1. [Requirements](#requirements)  
 
 - - -
