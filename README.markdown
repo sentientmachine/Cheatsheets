@@ -1,4 +1,3 @@
-# Cheatsheets
 
 - - -
 2. [Installation](#installation)
