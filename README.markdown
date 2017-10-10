@@ -1,22 +1,33 @@
-# BigTitle
+# Cheatsheets!  
 
-## (no actual cheating, )
+## (no actual cheating, just short and skinny mnemonics for important software and programming)
+
 - - -
-2. [Installation](#installation)  
-2.1. [Requirements](#requirements)  
-2.2. [Installing syntastic with Pathogen](#installpathogen)  
+1. [Python](#python)
+1.1. [Python Pandas](#pythonpandas)
+1.2. [Python DataScience basic lists](#pythondatasciencebasiclists)
+2. [Rscript](#rscript)
+2.1. [Neovim for r plugin](#neovimforrplugin)
+
 - - -
 
 
-<a name="installation"></a>
-## 2\. Installation
+<a name="python"></a>
 
-<a name="requirements"></a>
-### 2.1\. Requirements
+## 1\.  Python
 
-Syntastic 
+<a name="pythonpandas"></a>
 
-<a name="installpathogen"></a>
-### 2.2\. Installing syntastic with Pathogen
+### 1.1\. Python Pandas Data Wrangling
+![Alt text](./python_data_science_cheatsheet.png?raw=true "")
 
-If you alr
+<a name="pythondatasciencebasiclists"></a>
+### 1.2\. Python DataScience basic lists
+![Alt text](./python_data_science_cheatsheet.png?raw=true "")
+
+<a name="rscript"></a>
+## 2\.Rscript
+
+<a name="neovimforrplugin"></a>
+### 2.1\. Neovim for r plugin
+![Alt text](./neovim_for_r_plugin_code_cheatsheet.png?raw=true "")
