@@ -111,3 +111,8 @@ This breaks the spirit of this page, break this out as an image:
 <a href="./html_cheatsheet.pdf">html_cheatsheet.pdf</a>
 
 
+
+#todo
+
+linux, gentoo, ubuntu, fedora, vim, java, cpp, macosx, matplotlib, octave, pybrain, kafka, cloudera, locustio, jmeter, make, unittests, numpy, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.
+
