@@ -4,8 +4,9 @@
 
 - - -
 1. [Python](#python)  
-1.1. [Python Pandas](#python_pandas)  
-1.2. [Python DataScience basic lists](#python_data_science_basic_lists)  
+1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
+1.2. [Python Pandas](#python_pandas)  
+1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
 2. [Rscript](#rscript)  
 2.1. [Neovim for r plugin](#neovim_for_r_plugin)  
 2.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
@@ -20,15 +21,21 @@
 <a name="python"></a>
 ## 1\.  Python
 
-<a name="python_pandas"></a>
-### 1.1\. Python Pandas Data Wrangling
+<a name="python_data_science_basic_lists"></a>
+### 1.1\. Python DataScience basic lists
+![Alt text](./python_data_science_cheatsheet.png?raw=true "")
 
+
+<a name="python_pandas"></a>
+### 1.2\. Python Pandas Data Wrangling
 ![Alt text](./python_pandas_cheatsheet.png?raw=true "")
 
 
-<a name="python_data_science_basic_lists"></a>
-### 1.2\. Python DataScience basic lists
-![Alt text](./python_data_science_cheatsheet.png?raw=true "")
+<a name="python_pandas_basic_intermediate"></a>
+### 1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
+![Alt text](./python_pandas_cheatsheet02.png?raw=true "")
+
+
 
 <a name="rscript"></a>
 ## 2\. Rscript
