@@ -1,6 +1,6 @@
 # Cheatsheets!  
 
-## (no actual cheating, just short and skinny mnemonics for important software and programming)
+## (no actual cheating, just short and skinny mnemonics for software usage and programming concepts)
 
 - - -
 1. [Python](#python)  
@@ -14,6 +14,8 @@
 4.1. [Bash Commands](#bash_commands)  
 5. [Github](#github)
 5.1. [Github markdown](#github_markdown)  
+6. [HTML](#html)  
+6.1. [Html tags](#html_tags)  
 
 
 - - -
@@ -65,3 +67,15 @@
 ### 5.1\. Github markdown 
 
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a><br>
+
+
+
+<a name="html"></a>
+## 6\. HTML
+
+<a name="html_tags"></a>
+### 6.1\. HTML tags
+
+<a href="./html_cheatsheet.pdf">html_cheatsheet.pdf</a>
+
+
