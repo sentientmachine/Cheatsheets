@@ -1,6 +1,6 @@
 # Cheatsheets
 
-## (no actual cheating, just short and skinny mnemonics for important software and programming)
+## no actual cheating, just short and skinny mnemonics for important software and programming
 
 - - -
 1. [Python](#python)
