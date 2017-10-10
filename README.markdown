@@ -1,22 +1,15 @@
-# Cheatsheets!  
-
-## (no actual cheating, just short and skinny mnemonics for important software and programming)
 
 - - -
-
-1. [Python](#python)
-1.1. [Python Pandas](#pythonpandas)
+2. [Installation](#installation)  
+2.1. [Requirements](#requirements)  
 
 - - -
 
 
-<a name="python"></a>
+## 2\. Installation
 
-## 1\.  Python
+<a name="requirements"></a>
 
-<a name="pythonpandas"></a>
+### 2.1\. Requirements
 
-### 1.1\. Python Pandas
-
-![Alt text](./python_data_science_cheatsheet.png?raw=true "")
-
+Syntastic itself has rather relaxed requirements: it d
