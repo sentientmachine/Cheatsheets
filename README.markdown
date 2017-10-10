@@ -83,7 +83,7 @@
 
 
 
-<a name="rscript"></a>
+<a name="regular_expressions"></a>
 ## 3\. Regular Expressions
 
 <a name="neovim_for_r_plugin"></a>
