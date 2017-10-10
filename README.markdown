@@ -10,4 +10,4 @@
 
 ### 2.1\. Requirements
 
-Syntastic itself has rather relaxed requirements: it d
+Syntastic itself has rather relaxed requirements: it da
