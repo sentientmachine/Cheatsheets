@@ -8,17 +8,15 @@
 1.2. [Python Pandas](#python_pandas)  
 1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
+1.5  [Scipy Python Library](#scipy_library)  
 2. [Rscript](#rscript)  
 2.1. [Neovim for r plugin](#neovim_for_r_plugin)  
 2.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
-
-
 3. [Regular Expressions](#regular_expressions)  
 3.1. [Regular Expressions PCRE](#regular_expressions_pcre)  
-
 4. [Bash](#bash)  
 4.1. [Bash Commands](#bash_commands)  
-5. [Github](#github)
+5. [Github](#github)  
 5.1. [Github markdown](#github_markdown)  
 6. [HTML](#html)  
 6.1. [Html tags](#html_tags)  
@@ -42,12 +40,18 @@
 ### 1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
 ![Alt text](./python_pandas_cheatsheet02.png?raw=true "")
 
-<a name="python_pandas_basic_intermediate"></a>
+<a name="python_intermediate_overapi"></a>
 ### 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 
 10 page PDF can't be broken out as images:
 
 <a href="./python_cheatsheet_overapi.com.pdf">python_cheatsheet_overapi.com.pdf</a>
+
+<a name="scipy_library"></a>
+### 1.5. [SciPy Python Library](#scipy_library)  
+![Alt text](./scipy_cheatsheet01.png?raw=true "")
+
+
 
 
 <a name="rscript"></a>
