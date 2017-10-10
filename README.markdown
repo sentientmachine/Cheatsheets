@@ -8,7 +8,6 @@
 
 ## 2\. Installation
 
-<a name="requirements"></a>
 
 ### 2.1\. Requirements
 
