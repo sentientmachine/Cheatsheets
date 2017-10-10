@@ -16,7 +16,9 @@
 
 <a name="python_pandas"></a>
 ### 1.1\. Python Pandas Data Wrangling
-![Alt text](./python_pandas_cheatsheet.png?raw=true "")
+
+![Alt text](./python_pandas_cheatsheet.png?raw=true&border=2 "")
+
 
 <a name="python_data_science_basic_lists"></a>
 ### 1.2\. Python DataScience basic lists
