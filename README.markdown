@@ -4,13 +4,12 @@
 
 - - -
 1. [Python](#python)
-1.1. [Python Pandas Data Wrangling](#pythonpandas)
+1.1. [Pandas Data Wrangling](#pythonpandas)
 
 - - -
 
 ## 1\. Python
 
-### 1.1\. Python Pandas Data Wrangling
+### 1.1\. Pandas Data Wrangling
 
-![Alt text](./python_data_science_cheatsheet.png?raw=true "")
-
+asdf
