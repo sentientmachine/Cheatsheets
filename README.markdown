@@ -4,12 +4,11 @@
 
 - - -
 1. [Python](#python)
-1.1. [Python Pandas](#pythonpandas)
+1.1. [Python Pandas Data Wrangling](#pythonpandas)
 
 - - -
 
 ## 1\. Python
-
 
 ### 1.1\. Python Pandas Data Wrangling
 
