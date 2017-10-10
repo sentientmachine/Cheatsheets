@@ -8,6 +8,8 @@
 1.2. [Python Pandas](#python_pandas)  
 1.2.1. [Python Pandas Basic](#python_pandas_basic)  
 1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
+1.3. [Scikit Learn](#scikitlearn)  
+1.3.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 1.5  [Scipy Python Library](#scipy_library)  
 2. [Rscript](#rscript)  
@@ -44,6 +46,14 @@
 <a name="python_pandas_intermediate"></a>
 ### 1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
 ![Alt text](./python_pandas_intermediate.png?raw=true "")
+
+<a name="scikitlearn"></a>
+### 1.3\. Scikit learn
+
+<a name="scikitlearn"></a>
+### 1.3.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
+![Alt text](./scikit-learn_cheatsheet01.png?raw=true "")
+
 
 <a name="python_intermediate_overapi"></a>
 ### 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
