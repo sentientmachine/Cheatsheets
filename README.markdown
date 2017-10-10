@@ -1,13 +1,13 @@
 # Cheatsheets
 
 - - -
-1. [Installation](#installation)
-1.1. [Requirements](#requirements)
+2. [Installation](#installation)
+2.1. [Requirements](#requirements)
 
 - - -
 
-## 1\. Installation
+## 2\. Installation
 
-### 1.1\. Requirements
+### 2.1\. Requirements
 
-asdf
+Syntastic itself has rather relaxed requirements: it d
