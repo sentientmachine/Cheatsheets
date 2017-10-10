@@ -6,7 +6,8 @@
 1. [Python](#python)  
 1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
 1.2. [Python Pandas](#python_pandas)  
-1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
+1.2.1. [Python Pandas Basic](#python_pandas_basic)  
+1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 1.5  [Scipy Python Library](#scipy_library)  
 2. [Rscript](#rscript)  
@@ -37,8 +38,12 @@
 ![Alt text](./python_pandas_cheatsheet.png?raw=true "")
 
 <a name="python_pandas_basic_intermediate"></a>
-### 1.3. [Python Pandas Basic Intermediate](#python_pandas_basic_intermediate)  
-![Alt text](./python_pandas_cheatsheet02.png?raw=true "")
+### 1.2.1. [Python Pandas Basic](#python_pandas_basic)  
+![Alt text](./python_pandas_basic.png?raw=true "")
+
+<a name="python_pandas_intermediate"></a>
+### 1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
+![Alt text](./python_pandas_intermediate.png?raw=true "")
 
 <a name="python_intermediate_overapi"></a>
 ### 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
