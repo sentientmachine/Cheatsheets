@@ -2,6 +2,9 @@
 
 ## (no actual cheating, just short and skinny mnemonics for software usage and programming concepts)
 
+Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
+
+
 - - -
 1. [Python](#python)  
 1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
@@ -13,8 +16,8 @@
 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 1.5  [Scipy Python Library](#scipy_library)  
 2. [Java](#java)  
-2.1. [Java File Handling](#java_file_handling)  
-
+2.1. [Java Basics](#java_basics)  
+2.2. [Java File Handling](#java_file_handling)  
 3. [Rscript](#rscript)  
 3.1. [Neovim for r plugin](#neovim_for_r_plugin)  
 3.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
@@ -73,8 +76,12 @@
 <a name="java"></a>
 ## 2\. Java
 
+<a name="java_basics"></a>
+### 2.1\. Java Basics
+![Alt text](./java_cheatsheet01.png?raw=true "")
 <a name="java_file_handling"></a>
-### 2.1\. Java File Handling
+
+### 2.2\. Java File Handling
 ![Alt text](./java_file_handling_cheatsheet.png?raw=true "")
 
 
