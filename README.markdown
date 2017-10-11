@@ -2,7 +2,14 @@
 
 ## (no actual cheating, just short and skinny mnemonics for software usage and programming concepts)
 
-Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
+
+Inspiration from: 
+
+https://github.com/detailyang/awesome-cheatsheet
+
+https://www.cheatography.com/
+
+Allowing the greatest cheatsheets to evolve with the good makes for replication of best.
 
 
 - - -
@@ -158,5 +165,8 @@ This breaks the spirit of this page, break this out as an image:
 
 #todo
 
-linux, gentoo, ubuntu, fedora, vim, java, cpp, macosx, matplotlib, octave, pybrain, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.
+linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+vim, gentoo, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, matplotlib, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+
 
