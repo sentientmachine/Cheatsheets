@@ -7,14 +7,17 @@ Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
 
 - - -
 1. [Python](#python)  
-1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
-1.2. [Python Pandas](#python_pandas)  
-1.2.1. [Python Pandas Basic](#python_pandas_basic)  
-1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
-1.3. [Scikit Learn](#scikitlearn)  
-1.3.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
-1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
-1.5  [Scipy Python Library](#scipy_library)  
+1.1. [Python Numpy](#python_numpy)  
+1.2. [Python DataScience basic lists](#python_data_science_basic_lists)  
+1.3. [Python Pandas Data Wrangling](#python_pandas)  
+1.3.1. [Python Pandas Basic](#python_pandas_basic)  
+1.3.1. [Python Pandas Intermediate](#python_pandas_intermediate)  
+1.4. [Scikit Learn](#scikitlearn)  
+1.4.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
+
+1.5. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
+1.6  [Scipy Python Library](#scipy_library)  
+
 2. [Java](#java)  
 2.1. [Java Basics](#java_basics)  
 2.2. [Java File Handling](#java_file_handling)  
@@ -37,40 +40,46 @@ Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
 <a name="python"></a>
 ## 1\.  Python
 
-<a name="python_data_science_basic_lists"></a>
-### 1.1\. Python DataScience basic lists
-![Alt text](./python_data_science_cheatsheet.png?raw=true "")
 
+
+<a name="python_numpy"></a>
+### 1.1. [Python Numpy](#python_numpy)  
+![Alt text](./numpy_cheasheet01.png?raw=true "")
+
+<a name="python_data_science_basic_lists"></a>
+### 1.2\. Python DataScience basic lists
+![Alt text](./python_data_science_cheatsheet.png?raw=true "")
 
 <a name="python_pandas"></a>
 ### 1.2\. Python Pandas Data Wrangling
 ![Alt text](./python_pandas_cheatsheet.png?raw=true "")
 
 <a name="python_pandas_basic_intermediate"></a>
-### 1.2.1. [Python Pandas Basic](#python_pandas_basic)  
+### 1.3.1. [Python Pandas Basic](#python_pandas_basic)  
 ![Alt text](./python_pandas_basic.png?raw=true "")
 
 <a name="python_pandas_intermediate"></a>
-### 1.2.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
+### 1.3.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
 ![Alt text](./python_pandas_intermediate.png?raw=true "")
 
-<a name="scikitlearn"></a>
-### 1.3\. Scikit learn
 
 <a name="scikitlearn"></a>
-### 1.3.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
+### 1.4\. Scikit learn
+
+<a name="scikitlearn"></a>
+### 1.4.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
 ![Alt text](./scikit-learn_cheatsheet01.png?raw=true "")
 
 
 <a name="python_intermediate_overapi"></a>
-### 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
+### 1.5. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 
 10 page PDF can't be broken out as images:
 
 <a href="./python_cheatsheet_overapi.com.pdf">python_cheatsheet_overapi.com.pdf</a>
 
 <a name="scipy_library"></a>
-### 1.5. [SciPy Python Library](#scipy_library)  
+### 1.6. [SciPy Python Library](#scipy_library)  
 ![Alt text](./scipy_cheatsheet01.png?raw=true "")
 
 
