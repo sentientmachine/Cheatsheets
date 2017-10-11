@@ -35,9 +35,10 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
 6. [Github](#github)  
-6.1. [Github markdown](#github_markdown)  
-7. [HTML](#html)  
-7.1. [Html tags](#html_tags)  
+
+[Github markdown](#github_markdown)  
+[HTML](#html)  
+[Html tags](#html_tags)  
 
 
 - - -
@@ -169,6 +170,6 @@ vectorization, improving python for loop speed.
 
 linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
-vim, gentoo, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, matplotlib, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+vim, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, matplotlib, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
 
 
