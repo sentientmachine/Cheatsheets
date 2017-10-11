@@ -14,10 +14,8 @@ Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
 1.3.1. [Python Pandas Intermediate](#python_pandas_intermediate)  
 1.4. [Scikit Learn](#scikitlearn)  
 1.4.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
-
 1.5. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 1.6  [Scipy Python Library](#scipy_library)  
-
 2. [Java](#java)  
 2.1. [Java Basics](#java_basics)  
 2.2. [Java File Handling](#java_file_handling)  
