@@ -22,7 +22,8 @@ Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
 3.1. [Neovim for r plugin](#neovim_for_r_plugin)  
 3.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
 4. [Regular Expressions](#regular_expressions)  
-4.1. [Regular Expressions PCRE](#regular_expressions_pcre)  
+4.1. [Regular Expressions Java](#regular_expressions_java)  
+4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
 6. [Github](#github)  
@@ -103,8 +104,12 @@ Inspiration from this: https://github.com/detailyang/awesome-cheatsheet
 <a name="regular_expressions"></a>
 ## 4\. Regular Expressions
 
-<a name="neovim_for_r_plugin"></a>
-### 4.1\. Regular Expressions PCRE
+<a name="regular_expressions_java"></a>
+### 4.1\. Regular Expressions Java
+![Alt text](./regular_expressions_java.png?raw=true "")
+
+<a name="regular_expressions_pcre"></a>
+### 4.2\. Regular Expressions PCRE
 ![Alt text](./regular_expressions_cheatsheet.png?raw=true "")
 
 
