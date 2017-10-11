@@ -35,6 +35,8 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
 
+[Postgresql Basics](#postgresql_basics)  
+
 [Github](#github)  
 [Github markdown](#github_markdown)  
 [HTML](#html)  
@@ -139,6 +141,12 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 This breaks the spirit of this page, break this out as an image:
 
 <a href="https://gist.github.com/LeCoupa/122b12050f5fb267e75f">https://gist.github.com/LeCoupa/122b12050f5fb267e75f</a>
+
+<a name="postgresql_basics"></a>
+### Postgresql Basics
+![Alt text](./postgresql_basics.png?raw=true "")
+
+
 
 <a name="github"></a>
 ## Github
