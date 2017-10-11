@@ -34,8 +34,8 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
-6. [Github](#github)  
 
+[Github](#github)  
 [Github markdown](#github_markdown)  
 [HTML](#html)  
 [Html tags](#html_tags)  
@@ -141,22 +141,22 @@ This breaks the spirit of this page, break this out as an image:
 <a href="https://gist.github.com/LeCoupa/122b12050f5fb267e75f">https://gist.github.com/LeCoupa/122b12050f5fb267e75f</a>
 
 <a name="github"></a>
-## 6\. Github
+## Github
 
 This breaks the spirit of this page, break this out as an image:
 
 <a name="github_markdown"></a>
-### 6.1\. Github markdown 
+### Github markdown 
 
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a><br>
 
 
 
 <a name="html"></a>
-## 7\. HTML
+## HTML
 
 <a name="html_tags"></a>
-### 7.1\. HTML tags
+### HTML tags
 
 This breaks the spirit of this page, break this out as an image:
 
@@ -169,6 +169,8 @@ This breaks the spirit of this page, break this out as an image:
 vectorization, improving python for loop speed.
 
 linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+syscalls http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 
 vim, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, matplotlib, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
 
