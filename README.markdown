@@ -12,17 +12,20 @@
 1.3.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
 1.4. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 1.5  [Scipy Python Library](#scipy_library)  
-2. [Rscript](#rscript)  
-2.1. [Neovim for r plugin](#neovim_for_r_plugin)  
-2.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
-3. [Regular Expressions](#regular_expressions)  
-3.1. [Regular Expressions PCRE](#regular_expressions_pcre)  
-4. [Bash](#bash)  
-4.1. [Bash Commands](#bash_commands)  
-5. [Github](#github)  
-5.1. [Github markdown](#github_markdown)  
-6. [HTML](#html)  
-6.1. [Html tags](#html_tags)  
+2. [Java](#java)  
+2.1. [Java File Handling](#java_file_handling)  
+
+3. [Rscript](#rscript)  
+3.1. [Neovim for r plugin](#neovim_for_r_plugin)  
+3.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
+4. [Regular Expressions](#regular_expressions)  
+4.1. [Regular Expressions PCRE](#regular_expressions_pcre)  
+5. [Bash](#bash)  
+5.1. [Bash Commands](#bash_commands)  
+6. [Github](#github)  
+6.1. [Github markdown](#github_markdown)  
+7. [HTML](#html)  
+7.1. [Html tags](#html_tags)  
 
 
 - - -
@@ -67,59 +70,66 @@
 ![Alt text](./scipy_cheatsheet01.png?raw=true "")
 
 
+<a name="java"></a>
+## 2\. Java
+
+<a name="java_file_handling"></a>
+### 2.1\. Java File Handling
+![Alt text](./java_file_handling_cheatsheet.png?raw=true "")
+
 
 
 <a name="rscript"></a>
-## 2\. Rscript
+## 3\. Rscript
 
 <a name="neovim_for_r_plugin"></a>
-### 2.1\. Neovim for r plugin
+### 3.1\. Neovim for r plugin
 ![Alt text](./neovim_for_r_plugin_code_cheatsheet.png?raw=true "")
 
 <a name="data_viz_r_and_ggplot2"></a>
-### 2.2\. Data Visualization with R and ggplot2
+### 3.2\. Data Visualization with R and ggplot2
 ![Alt text](data_viz_r_and_ggplot2_part1.png/?raw=true "")
 ![Alt text](data_viz_r_and_ggplot2_part2.png/?raw=true "")
 
 
 
 <a name="regular_expressions"></a>
-## 3\. Regular Expressions
+## 4\. Regular Expressions
 
 <a name="neovim_for_r_plugin"></a>
-### 3.1\. Regular Expressions PCRE
+### 4.1\. Regular Expressions PCRE
 ![Alt text](./regular_expressions_cheatsheet.png?raw=true "")
 
 
 
 
 <a name="bash"></a>
-## 4\. Bash
+## 5\. Bash
 
 <a name="bash_commands"></a>
-### 4.1\. Bash Commands
+### 5.1\. Bash Commands
 
 This breaks the spirit of this page, break this out as an image:
 
 <a href="https://gist.github.com/LeCoupa/122b12050f5fb267e75f">https://gist.github.com/LeCoupa/122b12050f5fb267e75f</a>
 
 <a name="github"></a>
-## 5\. Github
+## 6\. Github
 
 This breaks the spirit of this page, break this out as an image:
 
 <a name="github_markdown"></a>
-### 5.1\. Github markdown 
+### 6.1\. Github markdown 
 
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a><br>
 
 
 
 <a name="html"></a>
-## 6\. HTML
+## 7\. HTML
 
 <a name="html_tags"></a>
-### 6.1\. HTML tags
+### 7.1\. HTML tags
 
 This breaks the spirit of this page, break this out as an image:
 
@@ -129,5 +139,5 @@ This breaks the spirit of this page, break this out as an image:
 
 #todo
 
-linux, gentoo, ubuntu, fedora, vim, java, cpp, macosx, matplotlib, octave, pybrain, kafka, cloudera, locustio, jmeter, make, unittests, numpy, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.
+linux, gentoo, ubuntu, fedora, vim, java, cpp, macosx, matplotlib, octave, pybrain, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.
 
