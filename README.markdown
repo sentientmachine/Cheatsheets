@@ -49,7 +49,6 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 ## 1\.  Python
 
 
-
 <a name="python_numpy"></a>
 ### 1.1. [Python Numpy](#python_numpy)  
 ![Alt text](./numpy_cheasheet01.png?raw=true "")
