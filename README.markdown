@@ -146,6 +146,8 @@ This breaks the spirit of this page, break this out as an image:
 ### Postgresql Basics
 ![Alt text](./postgresql_basics.png?raw=true "")
 
+https://wiki.debian.org/PostgreSql
+
 
 
 <a name="github"></a>
@@ -174,7 +176,7 @@ This breaks the spirit of this page, break this out as an image:
 
 #todo
 
-vectorization, improving python for loop speed.
+vectorization, improving python for loop speed by using all cores. https://stackoverflow.com/questions/15722324/sliding-window-in-numpy/42258242#42258242
 
 linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
