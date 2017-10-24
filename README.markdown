@@ -149,6 +149,7 @@ This breaks the spirit of this page, break this out as an image:
 
 ![Alt text](./terminal_symbols_shorthand_cheatsheet.png?raw=true "")
 
+https://www.youtube.com/watch?v=qI8eAlteW9E
 
 
 
