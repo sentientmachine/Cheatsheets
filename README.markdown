@@ -34,6 +34,7 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
+5.2. [Bash Commands](#terminal_symbols)  
 
 [Postgresql Basics](#postgresql_basics)  
 
@@ -61,7 +62,8 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 ### 1.2\. Python Pandas Data Wrangling
 ![Alt text](./python_pandas_cheatsheet.png?raw=true "")
 
-<a name="python_pandas_basic_intermediate"></a>
+
+<a name="python_pandas_basic"></a>
 ### 1.3.1. [Python Pandas Basic](#python_pandas_basic)  
 ![Alt text](./python_pandas_basic.png?raw=true "")
 
@@ -73,7 +75,7 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 <a name="scikitlearn"></a>
 ### 1.4\. Scikit learn
 
-<a name="scikitlearn"></a>
+<a name="scikitlearn_for_data_science"></a>
 ### 1.4.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
 ![Alt text](./scikit-learn_cheatsheet01.png?raw=true "")
 
@@ -140,6 +142,15 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 This breaks the spirit of this page, break this out as an image:
 
 <a href="https://gist.github.com/LeCoupa/122b12050f5fb267e75f">https://gist.github.com/LeCoupa/122b12050f5fb267e75f</a>
+
+
+<a name="terminal_symbols"></a>
+### 5.2\. Terminal Symbols
+
+![Alt text](./terminal_symbols_shorthand_cheatsheet.png?raw=true "")
+
+
+
 
 <a name="postgresql_basics"></a>
 ### Postgresql Basics
