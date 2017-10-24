@@ -14,15 +14,16 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 
 - - -
 1. [Python](#python)  
-1.1. [Python Numpy](#python_numpy)  
-1.2. [Python DataScience basic lists](#python_data_science_basic_lists)  
-1.3. [Python Pandas Data Wrangling](#python_pandas)  
-1.3.1. [Python Pandas Basic](#python_pandas_basic)  
-1.3.1. [Python Pandas Intermediate](#python_pandas_intermediate)  
-1.4. [Scikit Learn](#scikitlearn)  
-1.4.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
-1.5. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
-1.6  [Scipy Python Library](#scipy_library)  
+1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
+1.2. [Python Numpy](#python_numpy)  
+1.3  [Matplotlib](#matplotlib)  
+1.4. [Python Pandas Data Wrangling](#python_pandas)  
+1.4.1. [Python Pandas Basic](#python_pandas_basic)  
+1.4.1. [Python Pandas Intermediate](#python_pandas_intermediate)  
+1.5. [Scikit Learn](#scikitlearn)  
+1.5.1. [Scikit Learn For Data Science](#scikitlearn_for_data_science)  
+1.6. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
+1.7  [Scipy Python Library](#scipy_library)  
 2. [Java](#java)  
 2.1. [Java Basics](#java_basics)  
 2.2. [Java File Handling](#java_file_handling)  
@@ -49,46 +50,49 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 <a name="python"></a>
 ## 1\.  Python
 
-
-<a name="python_numpy"></a>
-### 1.1. [Python Numpy](#python_numpy)  
-![Alt text](./numpy_cheasheet01.png?raw=true "")
-
 <a name="python_data_science_basic_lists"></a>
-### 1.2\. Python DataScience basic lists
+### 1.1\. Python DataScience basic lists
 ![Alt text](./python_data_science_cheatsheet.png?raw=true "")
 
+<a name="python_numpy"></a>
+### 1.2. [Python Numpy](#python_numpy)  
+![Alt text](./numpy_cheasheet01.png?raw=true "")
+
+
+<a name="matplotlib"></a>
+### 1.3. [Python Library Matplotlib](#matplotlib)  
+![Alt text](./matplotlib.png?raw=true "")
+
 <a name="python_pandas"></a>
-### 1.2\. Python Pandas Data Wrangling
+### 1.4\. Python Pandas Data Wrangling
 ![Alt text](./python_pandas_cheatsheet.png?raw=true "")
 
-
 <a name="python_pandas_basic"></a>
-### 1.3.1. [Python Pandas Basic](#python_pandas_basic)  
+### 1.4.1. [Python Pandas Basic](#python_pandas_basic)  
 ![Alt text](./python_pandas_basic.png?raw=true "")
 
 <a name="python_pandas_intermediate"></a>
-### 1.3.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
+### 1.4.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
 ![Alt text](./python_pandas_intermediate.png?raw=true "")
 
 
 <a name="scikitlearn"></a>
-### 1.4\. Scikit learn
+### 1.5\. Scikit learn
 
 <a name="scikitlearn_for_data_science"></a>
-### 1.4.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
+### 1.5.1. [Scikit Learn for Data Science](#scikitlearn_for_data_science)  
 ![Alt text](./scikit-learn_cheatsheet01.png?raw=true "")
 
 
 <a name="python_intermediate_overapi"></a>
-### 1.5. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
+### 1.6. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 
 10 page PDF can't be broken out as images:
 
 <a href="./python_cheatsheet_overapi.com.pdf">python_cheatsheet_overapi.com.pdf</a>
 
 <a name="scipy_library"></a>
-### 1.6. [SciPy Python Library](#scipy_library)  
+### 1.7. [Python Library SciPy](#scipy_library)  
 ![Alt text](./scipy_cheatsheet01.png?raw=true "")
 
 
@@ -193,6 +197,6 @@ linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
 syscalls http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 
-vim, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, matplotlib, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+vim, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
 
 
