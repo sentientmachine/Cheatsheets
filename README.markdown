@@ -111,7 +111,7 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 <a name="vi"></a>
 ## 3\. Vi
 
-### 3.1. [Vi cheatsheet](#vi_cheatsheet)  
+### 3.1\. [Vi cheatsheet](#vi_cheatsheet)  
 ![Alt text](./vim_cheatsheet.png?raw=true "")
 
 
