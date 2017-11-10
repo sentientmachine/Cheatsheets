@@ -27,9 +27,8 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 2. [Java](#java)  
 2.1. [Java Basics](#java_basics)  
 2.2. [Java File Handling](#java_file_handling)  
-3. [Rscript](#rscript)  
-3.1. [Neovim for r plugin](#neovim_for_r_plugin)  
-3.2. [Data Vizualization with R and ggplot2](#data_viz_r_and_ggplot2)  
+3. [Vi](#vi)  
+3.1. [Vi cheatsheet](#vi_cheatsheet)
 4. [Regular Expressions](#regular_expressions)  
 4.1. [Regular Expressions Java](#regular_expressions_java)  
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
@@ -109,17 +108,12 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 
 
 
-<a name="rscript"></a>
-## 3\. Rscript
+<a name="vi"></a>
+## 3\. Vi
 
-<a name="neovim_for_r_plugin"></a>
-### 3.1\. Neovim for r plugin
-![Alt text](./neovim_for_r_plugin_code_cheatsheet.png?raw=true "")
+### 3.1. [Vi cheatsheet](#vi_cheatsheet)  
+![Alt text](./vim_cheatsheet.png?raw=true "")
 
-<a name="data_viz_r_and_ggplot2"></a>
-### 3.2\. Data Visualization with R and ggplot2
-![Alt text](data_viz_r_and_ggplot2_part1.png/?raw=true "")
-![Alt text](data_viz_r_and_ggplot2_part2.png/?raw=true "")
 
 
 
