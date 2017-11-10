@@ -101,16 +101,18 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 <a name="java_basics"></a>
 ### 2.1\. Java Basics
 ![Alt text](./java_cheatsheet01.png?raw=true "")
-<a name="java_file_handling"></a>
 
+<a name="java_file_handling"></a>
 ### 2.2\. Java File Handling
 ![Alt text](./java_file_handling_cheatsheet.png?raw=true "")
+
 
 
 
 <a name="vi"></a>
 ## 3\. Vi
 
+<a name="vi_cheatsheet"></a>
 ### 3.1\. [Vi cheatsheet](#vi_cheatsheet)  
 ![Alt text](./vim_cheatsheet.png?raw=true "")
 
