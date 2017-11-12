@@ -13,9 +13,11 @@ Allowing the greatest cheatsheets to evolve with the good makes for replication 
 
 
 
-CPlusPlusCheatsheet!
+## CPlusPlusCheatsheet!
 
 https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
+
+https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 
 
 - - -
