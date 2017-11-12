@@ -12,6 +12,12 @@ https://www.cheatography.com/
 Allowing the greatest cheatsheets to evolve with the good makes for replication of best.
 
 
+
+CPlusPlusCheatsheet!
+
+https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
+
+
 - - -
 1. [Python](#python)  
 1.1. [Python DataScience basic lists](#python_data_science_basic_lists)  
@@ -193,6 +199,6 @@ linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
 syscalls http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 
-vim, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+Cpp, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
 
 
