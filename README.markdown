@@ -3,7 +3,9 @@
 ## (no actual cheating, just short and skinny mnemonics for software usage and programming concepts)
 
 
+
 Inspiration from: 
+
 
 https://github.com/detailyang/awesome-cheatsheet
 
