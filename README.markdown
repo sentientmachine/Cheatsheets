@@ -132,6 +132,8 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 <a name="regular_expressions"></a>
 ## 4\. Regular Expressions
 
+<a href="http://www.rexegg.com/regex-quantifiers.html#tempered_greed">http://www.rexegg.com/regex-quantifiers.html#tempered_greed</a>
+
 <a name="regular_expressions_java"></a>
 ### 4.1\. Regular Expressions Java
 ![Alt text](./regular_expressions_java.png?raw=true "")
