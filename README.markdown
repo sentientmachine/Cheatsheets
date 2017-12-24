@@ -199,12 +199,13 @@ This breaks the spirit of this page, break this out as an image:
 
 #todo
 
+.gitignore syntax, gentoo, cpp, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+
 vectorization, improving python for loop speed by using all cores. https://stackoverflow.com/questions/15722324/sliding-window-in-numpy/42258242#42258242
 
 linux, https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/
 
 syscalls http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 
-Cpp, gentoo, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
 
 
