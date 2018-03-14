@@ -161,6 +161,11 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 
 This breaks the spirit of this page, break this out as an image:
 <a href="https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh">https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh</a>
+<br><br>
+<a href="http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf">http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf</a><br>
+
+
+![Alt text](./bash_cheatsheet.png?raw=true "")
 
 
 
