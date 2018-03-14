@@ -160,8 +160,8 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 ### 5.1\. Bash Commands
 
 This breaks the spirit of this page, break this out as an image:
+<a href="https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh">https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh</a>
 
-<a href="https://gist.github.com/LeCoupa/122b12050f5fb267e75f">https://gist.github.com/LeCoupa/122b12050f5fb267e75f</a>
 
 
 <a name="terminal_symbols"></a>
