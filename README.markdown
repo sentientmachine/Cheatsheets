@@ -128,7 +128,7 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 
 
 <a name="vi"></a>
-## 3\. Vi
+## 3\. Vim cheatsheet
 
 <a name="vi_cheatsheet"></a>
 ### 3.1\. [Vi cheatsheet](#vi_cheatsheet)  
