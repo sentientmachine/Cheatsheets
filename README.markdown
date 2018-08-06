@@ -132,6 +132,11 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 
 <a name="vi_cheatsheet"></a>
 ### 3.1\. [Vi cheatsheet](#vi_cheatsheet)  
+
+Text version, all commands
+https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
+
+
 ![Alt text](./vim_cheatsheet.png?raw=true "")
 
 
