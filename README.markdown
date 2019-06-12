@@ -46,7 +46,8 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
-5.2. [Terminal Symbols](#terminal_symbols)  
+5.2. [Bash Navigation](#bash_navigation)  
+5.3. [Terminal Symbols](#terminal_symbols)  
 
 [Postgresql Basics](#postgresql_basics)  
 
@@ -173,9 +174,14 @@ This breaks the spirit of this page, break this out as an image:
 ![Alt text](./bash_cheatsheet.png?raw=true "")
 
 
+<a name="bash_navigation"></a>
+### 5.2\. Bash Navigation
+
+![Alt text](./basic_linux_commands.jpg?raw=true "")
+
 
 <a name="terminal_symbols"></a>
-### 5.2\. Terminal Symbols
+### 5.3\. Terminal Symbols
 
 ![Alt text](./terminal_symbols_shorthand_cheatsheet.png?raw=true "")
 
