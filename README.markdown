@@ -46,7 +46,7 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
 5.1. [Bash Commands](#bash_commands)  
-5.2. [Bash Commands](#terminal_symbols)  
+5.2. [Terminal Symbols](#terminal_symbols)  
 
 [Postgresql Basics](#postgresql_basics)  
 
