@@ -45,8 +45,8 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 4.1. [Regular Expressions Java](#regular_expressions_java)  
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Bash](#bash)  
-5.1. [Bash Commands](#bash_commands)  
-5.2. [Bash Navigation](#bash_navigation)  
+5.1. [Bash Navigation](#bash_navigation)  
+5.2. [Bash Commands](#bash_commands)  
 5.3. [Terminal Symbols](#terminal_symbols)  
 
 [Postgresql Basics](#postgresql_basics)  
@@ -162,20 +162,23 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 <a name="bash"></a>
 ## 5\. Bash
 
+
+
+
+<a name="bash_navigation"></a>
+### 5.1\. Bash Navigation
+
+![Alt text](./bash_cheatsheet.png?raw=true "")
+
+
+
 <a name="bash_commands"></a>
-### 5.1\. Bash Commands
+### 5.2\. Bash Commands
 
 This breaks the spirit of this page, break this out as an image:
 <a href="https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh">https://github.com/sentientmachine/awesome-cheatsheets/blob/master/languages/bash.sh</a>
 <br><br>
 <a href="http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf">http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf</a><br>
-
-
-![Alt text](./bash_cheatsheet.png?raw=true "")
-
-
-<a name="bash_navigation"></a>
-### 5.2\. Bash Navigation
 
 ![Alt text](./basic_linux_commands.jpg?raw=true "")
 
