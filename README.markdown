@@ -35,13 +35,13 @@
 7. [Database](#database)  
 7.1. [Postgresql Basics](#postgresql_basics)  
 
-Assimilate these:
+
+## Assimilate these next:
 
 [Github](#github)  
 [Github markdown](#github_markdown)  
 [HTML](#html)  
 [Html tags](#html_tags)  
-
 
 - - -
 
@@ -206,22 +206,17 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 
 
 
+# Assimilate these:
 
-Assimilate these:
+## http response code cheatsheet, 404, 500, 200, etc
+
+https://github.com/abraztsov/http-simple-cheatsheet
 
 
 
-
-<a name="github"></a>
-## Github
-
-This breaks the spirit of this page, break this out as an image:
-
-<a name="github_markdown"></a>
-### Github markdown
+# Github markdown cheatsheet:
 
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a><br>
-
 
 
 <a name="html"></a>
@@ -240,7 +235,7 @@ This breaks the spirit of this page, break this out as an image:
 
 
 
-#Inspiration from:
+# Inspiration from:
 
 
 https://github.com/detailyang/awesome-cheatsheet
