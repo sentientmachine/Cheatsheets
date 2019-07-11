@@ -1,26 +1,6 @@
-# Cheatsheets!  
+# Cheatsheets!
 
 ## (no actual cheating, just short and skinny mnemonics for software usage and programming concepts)
-
-
-
-Inspiration from: 
-
-
-https://github.com/detailyang/awesome-cheatsheet
-
-https://www.cheatography.com/
-
-Allowing the greatest cheatsheets to evolve with the good makes for replication of best.
-
-
-
-## CPlusPlusCheatsheet!
-
-https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
-
-https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
-
 
 - - -
 1. [Python](#python)  
@@ -39,14 +19,14 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 2.1. [Java Basics](#java_basics)  
 2.2. [Java File Handling](#java_file_handling)  
 3. [Vi](#vi)  
-3.1. [Vi cheatsheet](#vi_cheatsheet)
+3.1. [Vi cheatsheet](#vi_cheatsheet)  
 4. [Regular Expressions](#regular_expressions)  
 4.1. [Regular Expressions Java](#regular_expressions_java)  
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Linux](#linux)  
 5.1. [Basic Linux](#basic_linux)  
 5.2. [Linux Observability](#linux_observability)  
-6. [Bash](#bash)
+6. [Bash](#bash)  
 6.1. [Bash Navigation](#bash_navigation)  
 6.2. [Bash Commands](#bash_commands)  
 6.3. [Terminal Symbols](#terminal_symbols)  
@@ -221,7 +201,7 @@ https://wiki.debian.org/PostgreSql
 This breaks the spirit of this page, break this out as an image:
 
 <a name="github_markdown"></a>
-### Github markdown 
+### Github markdown
 
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</a><br>
 
@@ -239,9 +219,29 @@ This breaks the spirit of this page, break this out as an image:
 
 
 
+
+
+
+
+#Inspiration from:
+
+
+https://github.com/detailyang/awesome-cheatsheet
+
+https://www.cheatography.com/
+
+Allowing the greatest cheatsheets to evolve with the good makes for replication of best.
+
+
 #todo
 
-.gitignore syntax, gentoo, cpp, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg, 
+## CPlusPlusCheatsheet!?
+
+https://www.techworm.net/2017/07/ultimate-c-programming-language-cheat-sheet.html
+
+https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
+
+.gitignore syntax, gentoo, cpp, xterm256colors, pybrain, python3, python2, ubuntu, fedora, java, cpp, macosx, octave, kafka, cloudera, locustio, jmeter, make, unittests, sql. machinelearning, postgresql, computer vision, scikitlearn, git, javascript, mysql, php.ffmpeg,
 
 vectorization, improving python for loop speed by using all cores. https://stackoverflow.com/questions/15722324/sliding-window-in-numpy/42258242#42258242
 
