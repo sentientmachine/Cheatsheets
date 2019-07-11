@@ -24,7 +24,6 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 
 - - -
 1. [Python](#python)  
-
 1.1. [Basic Python ](#basic_python)  
 1.2. [Python DataScience basic lists](#python_data_science_basic_lists)  
 1.3. [Python Numpy](#python_numpy)  
@@ -44,9 +43,9 @@ https://github.com/gibsjose/cpp-cheat-sheet/blob/master/C%2B%2B%20Syntax.md
 4. [Regular Expressions](#regular_expressions)  
 4.1. [Regular Expressions Java](#regular_expressions_java)  
 4.2. [Regular Expressions PCRE](#regular_expressions_pcre)  
-5. [Linux](#linux)
-5.1. [Basic Linux](#basic_linux)
-5.1. [Linux Observability](#linux_observability)
+5. [Linux](#linux)  
+5.1. [Basic Linux](#basic_linux)  
+5.2. [Linux Observability](#linux_observability)  
 6. [Bash](#bash)
 6.1. [Bash Navigation](#bash_navigation)  
 6.2. [Bash Commands](#bash_commands)  
