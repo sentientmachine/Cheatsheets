@@ -31,7 +31,10 @@
 6.2. [Bash Commands](#bash_commands)  
 6.3. [Terminal Symbols](#terminal_symbols)  
 
-[Postgresql Basics](#postgresql_basics)  
+7. [Database](#database)  
+7.1. [Postgresql Basics](#postgresql_basics)  
+
+Assimilate these:
 
 [Github](#github)  
 [Github markdown](#github_markdown)  
@@ -186,12 +189,19 @@ This breaks the spirit of this page, break this out as an image:
 https://www.youtube.com/watch?v=qI8eAlteW9E
 
 
+<a name="database"></a>
+## 7\. Database
 
 <a name="postgresql_basics"></a>
-### Postgresql Basics
+### 7.1\. Postgresql Basics
+
 ![Alt text](./postgresql_basics.png?raw=true "")
 
-https://wiki.debian.org/PostgreSql
+
+
+
+Assimilate these:
+
 
 
 
