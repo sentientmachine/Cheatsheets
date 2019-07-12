@@ -208,6 +208,11 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 
 # Assimilate these:
 
+## Apache .htaccess Rewrite Rules cheat sheet:
+
+http://htaccesscheatsheet.com
+
+
 ## http response code cheatsheet, 404, 500, 200, etc
 
 https://github.com/abraztsov/http-simple-cheatsheet
