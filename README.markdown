@@ -36,6 +36,13 @@
 7.1. [Postgresql Basics](#postgresql_basics)  
 
 
+
+
+
+
+
+
+
 ## Assimilate these next:
 
 [Github](#github)  
