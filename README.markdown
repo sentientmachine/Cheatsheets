@@ -181,6 +181,10 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 <a name="bash_navigation"></a>
 ### 6.1\. Bash Navigation
 
+get closer to the metal with: 
+
+<a href="https://www.tldp.org/LDP/abs/html/io-redirection.html">https://www.tldp.org/LDP/abs/html/io-redirection.html</a>
+
 ![Alt text](./bash_cheatsheet.png?raw=true "")
 
 
