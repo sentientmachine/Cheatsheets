@@ -34,6 +34,8 @@
 
 7. [Database](#database)  
 7.1. [Postgresql Basics](#postgresql_basics)  
+8. [Partitioning](#partitioning)  
+8.1. [fdisk help](#fdisk_help)  
 
 
 
@@ -214,6 +216,15 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 ### 7.1\. Postgresql Basics
 
 ![Alt text](./postgresql_basics.png?raw=true "")
+
+
+<a name="partitioning"></a>
+## 8\. Partitioning
+
+<a name="postgresql_basics"></a>
+### 8.1\. Fdisk help
+
+![Alt text](./fdisk_help.png?raw=true "")
 
 
 
