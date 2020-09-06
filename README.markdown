@@ -221,7 +221,7 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 <a name="partitioning"></a>
 ## 8\. Partitioning
 
-<a name="postgresql_basics"></a>
+<a name="fdisk_help"></a>
 ### 8.1\. Fdisk help
 
 ![Alt text](./fdisk_help.jpg?raw=true "")
