@@ -224,7 +224,7 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 <a name="postgresql_basics"></a>
 ### 8.1\. Fdisk help
 
-![Alt text](./fdisk_help.png?raw=true "")
+![Alt text](./fdisk_help.jpg?raw=true "")
 
 
 
