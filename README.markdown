@@ -27,6 +27,7 @@
 5.1. [Basic Linux](#basic_linux)  
 5.2. [Linux Observability](#linux_observability)  
 5.3. [Unix Readline](#unix_readline)  
+5.4. [GNU Readline Emacs](#gnu_readline_emacs)  
 6. [Bash](#bash)  
 6.1. [Bash Navigation](#bash_navigation)  
 6.2. [Bash Commands](#bash_commands)  
@@ -174,6 +175,10 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 
 ![Alt text](./unix_readline_commands.png?raw=true "")
 
+<a name="gnu_readline_emacs"></a>
+### 5.4\. GNU Readline Emacs
+
+![Alt text](./gnu_readline_emacs.png?raw=true "")
 
 
 <a name="bash"></a>
