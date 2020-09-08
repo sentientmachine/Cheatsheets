@@ -178,7 +178,7 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 <a name="gnu_readline_emacs"></a>
 ### 5.4\. GNU Readline Emacs
 
-![Alt text](./gnu_readline_emacs.png?raw=true "")
+![Alt text](./gnu_readline_cheatsheet.png?raw=true "")
 
 
 <a name="bash"></a>
