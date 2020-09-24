@@ -266,7 +266,7 @@ This breaks the spirit of this page, break this out as an image:
 # Swag images
 
 A man's beard must reach at least his nipples, and be at least 5% cheetos, to qualify for a full 
-compilation of Gentoo from source.
+compilation of Gentoo from source.  Check it: dual stacked Nvidia 2080TI GPU's.  
 
 ![Alt text](./erics_gpu_gentoo_neofetch_graphic.jpg?raw=true "")
 
