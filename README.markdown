@@ -270,6 +270,9 @@ compilation of Gentoo from source.  Check it: dual stacked Nvidia 2080TI GPU's.
 
 ![Alt text](./erics_gpu_gentoo_neofetch_graphic.jpg?raw=true "")
 
+<a href="https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet">https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet</a><br>
+<br>
+
 
 # Inspiration from:
 
