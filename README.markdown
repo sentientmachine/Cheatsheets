@@ -156,7 +156,7 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 <a name="linux"></a>
 ## 5\. Linux
 
-
+ubuntu,SUSE,Fedora,PCLinuxOS,MEPIS,Mandriva,Debian,Damn,Sabayon,Slackware,KNOPPIX,Gentoo,Zenwalk,Mint,Kubuntu,FreeBSD,Puppy,Freespire,Vector,Dreamlinux,CentOS,Arch,Xandros,Elive,SLAX,Red,BSD,KANOTIX,Nexenta,Foresight,GeeXboX,Frugalware,64,SystemRescue,Novell,Solaris,BackTrack,KateOS,Pardus
 
 
 <a name="basic_linux"></a>
