@@ -263,8 +263,11 @@ This breaks the spirit of this page, break this out as an image:
 
 # Swag images
 
-A man's beard must reach at least his nipples, and be at least 5% cheetos, to qualify for a full 
-compilation of Gentoo from source.  Check it: dual stacked Nvidia 2080TI GPU's.  Good Decisions per sec equals money.
+A man's beard must reach at least his nipples, and be at least 5% cheetos, to successfully
+compile the Gentoo OS from source.  Check it: dual stacked Nvidia 2080TI GPU's.  
+
+Good enough (and provably so) decisions per second, is exchangable for money.  Double up case
+airflow, these produce 115 Centigrade in a second of full tilt.
 
 ![Alt text](./erics_gpu_gentoo_neofetch_graphic.jpg?raw=true "")
 
