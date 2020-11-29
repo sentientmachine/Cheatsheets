@@ -101,9 +101,7 @@
 <a name="python_intermediate_overapi"></a>
 ### 1.7. [Python Intermediate Overapi.com](#python_intermediate_overapi)  
 
-10 page PDF can't be broken out as images:
-
-<a href="./python_cheatsheet_overapi.com.pdf">python_cheatsheet_overapi.com.pdf</a>
+10 page PDF can't be broken out as images: <a href="./python_cheatsheet_overapi.com.pdf">python_cheatsheet_overapi.com.pdf</a>
 
 <a name="scipy_library"></a>
 ### 1.8. [Python Library SciPy](#scipy_library)  
