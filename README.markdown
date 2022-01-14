@@ -220,6 +220,11 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 
 ![Alt text](./postgresql_basics.png?raw=true "")
 
+Full PSQL-syntax walkthrough course for beginners by FreeCodeCamp.org
+
+<a href="https://www.youtube.com/watch?v=qw--VYLpxG4">https://www.youtube.com/watch?v=qw--VYLpxG4</a><br>
+
+
 
 <a name="partitioning"></a>
 ## 8\. Partitioning
