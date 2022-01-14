@@ -34,7 +34,8 @@
 6.3. [Terminal Symbols](#terminal_symbols)  
 
 7. [Database](#database)  
-7.1. [Postgresql Basics](#postgresql_basics)  
+7.1. [Vanilla SQL Basics](#sql_basics)  
+7.2. [Postgresql Basics](#postgresql_basics)  
 8. [Partitioning](#partitioning)  
 8.1. [fdisk help](#fdisk_help)  
 
@@ -215,8 +216,14 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 <a name="database"></a>
 ## 7\. Database
 
+<a name="sql_basics"></a>
+### 7.1\. Vanilla SQL Basics
+
+![Alt text](./vanilla_sql_cheatsheet.png?raw=true "")
+
+
 <a name="postgresql_basics"></a>
-### 7.1\. Postgresql Basics
+### 7.2\. Postgresql Basics
 
 ![Alt text](./postgresql_basics.png?raw=true "")
 
