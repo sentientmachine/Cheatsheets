@@ -210,6 +210,9 @@ This breaks the spirit of this page, break this out as an image:
 
 ![Alt text](./terminal_symbols_shorthand_cheatsheet.png?raw=true "")
 
+<a href="https://linuxhint.com/bash_append_array/">https://linuxhint.com/bash_append_array/</a><br>
+<br>
+
 https://www.youtube.com/watch?v=qI8eAlteW9E
 
 
