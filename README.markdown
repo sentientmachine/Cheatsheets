@@ -90,6 +90,9 @@
 ### 1.5.2. [Python Pandas Intermediate](#python_pandas_intermediate)  
 ![Alt text](./python_pandas_intermediate.png?raw=true "")
 
+The most important aspect of Pandas dataframes and numpy arrays, is its multicore C++ accellerated indexing and array slicing described here:<br>
+<a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html">https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html</a><br>
+
 
 <a name="scikitlearn"></a>
 ### 1.6\. Scikit learn
