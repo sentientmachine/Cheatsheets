@@ -33,12 +33,12 @@
 6.2. [Bash Commands](#bash_commands)  
 6.3. [Terminal Symbols](#terminal_symbols)  
 
-7. [Database](#database)  
-7.1. [Vanilla SQL Basics](#sql_basics)  
-7.2. [Postgresql Basics](#postgresql_basics)  
+7. [SQL And Database](#database)  
+7.1. [SQL Cheatsheet](#interviewbit_sql_cheatsheet)  
+7.2. [Vanilla SQL Basics](#sql_basics)  
+7.3. [Postgresql Basics](#postgresql_basics)  
 8. [Partitioning](#partitioning)  
 8.1. [fdisk help](#fdisk_help)  
-
 
 
 
@@ -222,14 +222,22 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 <a name="database"></a>
 ## 7\. Database
 
+<a name="interviewbit_sql_cheatsheet"></a>
+### 7.1\. InterviewBit SQL Cheatsheet
+
+A 48 page masterful condensed PDF of SQL, can't be broken out as images: <br>
+<a href="./interviewbit_sql_cheatsheet.pdf">interviewbit_sql_cheatsheet.pdf</a>
+And a great learn-sql practice site: <a href="http://sql-practice.com">http://sql-practice.com</a><br>
+
+
 <a name="sql_basics"></a>
-### 7.1\. Vanilla SQL Basics
+### 7.2\. Vanilla SQL Basics
 
 ![Alt text](./vanilla_sql_cheatsheet.png?raw=true "")
 
 
 <a name="postgresql_basics"></a>
-### 7.2\. Postgresql Basics
+### 7.3\. Postgresql Basics
 
 ![Alt text](./postgresql_basics.png?raw=true "")
 
