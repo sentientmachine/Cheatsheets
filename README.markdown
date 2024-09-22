@@ -225,8 +225,11 @@ https://www.youtube.com/watch?v=qI8eAlteW9E
 <a name="interviewbit_sql_cheatsheet"></a>
 ### 7.1\. InterviewBit SQL Cheatsheet
 
-A 48 page masterful condensed PDF of SQL, can't be broken out as images: <br>
-<a href="./interviewbit_sql_cheatsheet.pdf">interviewbit_sql_cheatsheet.pdf</a>
+A 48 page masterful condensed PDF of SQL, can't be broken out as images:
+Source: <a href="https://www.interviewbit.com/sql-cheat-sheet/">https://www.interviewbit.com/sql-cheat-sheet/</a>
+
+Backup right click download: <a href="./interviewbit_sql_cheatsheet.pdf">interviewbit_sql_cheatsheet.pdf</a>
+
 And a great learn-sql practice site: <a href="http://sql-practice.com">http://sql-practice.com</a><br>
 
 
