@@ -265,7 +265,7 @@ Full PSQL-syntax walkthrough course for beginners by FreeCodeCamp.org
 ## 9\. Big O Notation. 
 
 <a name="big_o_notation_by_bytebytego"></a>
-### 8.1\. ByteByteGo's cheatsheet on big o notation
+### 9.1\. ByteByteGo's cheatsheet on big o notation
 
 ![Alt text](./big_o_notation_cheatsheet.gif?raw=true "")
 
