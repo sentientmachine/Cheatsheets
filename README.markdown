@@ -39,6 +39,8 @@
 7.3. [Postgresql Basics](#postgresql_basics)  
 8. [Partitioning](#partitioning)  
 8.1. [fdisk help](#fdisk_help)  
+9. [Big O Notation](#big_o_notation)  
+9.1. [ByteByteGo Cheatsheet Big O Notation](#big_o_notation_by_bytebytego)  
 
 
 
@@ -258,6 +260,14 @@ Full PSQL-syntax walkthrough course for beginners by FreeCodeCamp.org
 
 ![Alt text](./fdisk_help.jpg?raw=true "")
 
+
+<a name="big_o_notation"></a>
+## 9\. Big O Notation. 
+
+<a name="big_o_notation_by_bytebytego"></a>
+### 8.1\. ByteByteGo's cheatsheet on big o notation
+
+![Alt text](./big_o_notation_cheatsheet.gif?raw=true "")
 
 
 # Assimilate these:
