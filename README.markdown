@@ -41,7 +41,7 @@
 8.1. [fdisk help](#fdisk_help)  
 9. [Big O Notation](#big_o_notation)  
 9.1. [ByteByteGo Cheatsheet Big O Notation](#big_o_notation_by_bytebytego)  
-
+9.2. [Big O Notation the Graphic](#big_o_notation_graphic)  
 
 
 
@@ -268,6 +268,13 @@ Full PSQL-syntax walkthrough course for beginners by FreeCodeCamp.org
 ### 9.1\. ByteByteGo's cheatsheet on big o notation
 
 ![Alt text](./big_o_notation_cheatsheet.gif?raw=true "")
+
+<a name="big_o_notation_graphic"></a>
+### 9.2\. Big O Notation, the only graphic you need
+
+red is bad, green is good.
+
+![Alt text](./big_o_notation_graphic.png?raw=true "")
 
 
 # Assimilate these:
