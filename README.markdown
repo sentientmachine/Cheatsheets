@@ -151,7 +151,7 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 
 <a name="regular_expressions_python_maxcondensed"></a>
 ### 4.1\. Regular Expressions Python Maxcondensed
-![Alt text](./python_regex_re_max_condensed.png.png?raw=true "")
+![Alt text](./python_regex_re_max_condensed.png?raw=true "")
 <a name="regular_expressions_python3"></a>
 ### 4.2\. Regular Expressions Python
 ![Alt text](./regular_expressions_python3_re.png?raw=true "")
