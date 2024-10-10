@@ -21,9 +21,10 @@
 3. [Vi](#vi)  
 3.1. [Vi cheatsheet](#vi_cheatsheet)  
 4. [Regular Expressions](#regular_expressions)  
-4.1. [Regular Expressions Python3](#regular_expressions_python3)  
-4.2. [Regular Expressions Java](#regular_expressions_java)  
-4.3. [Regular Expressions PCRE](#regular_expressions_pcre)  
+4.1. [Regular Expressions Python max condensed](#regular_expressions_python_maxcondensed)  
+4.2. [Regular Expressions Python3](#regular_expressions_python3)  
+4.3. [Regular Expressions Java](#regular_expressions_java)  
+4.4. [Regular Expressions PCRE](#regular_expressions_pcre)  
 5. [Linux](#linux)  
 5.1. [Basic Linux](#basic_linux)  
 5.2. [Linux Observability](#linux_observability)  
@@ -148,13 +149,17 @@ https://github.com/sentientmachine/Cheatsheets/blob/master/vim_cheat_sheet.txt
 
 <a href="http://www.rexegg.com/regex-quantifiers.html#tempered_greed">http://www.rexegg.com/regex-quantifiers.html#tempered_greed</a>
 
+<a name="regular_expressions_python_maxcondensed"></a>
+### 4.1\. Regular Expressions Python Maxcondensed
+![Alt text](./python_regex_re_max_condensed.png.png?raw=true "")
 <a name="regular_expressions_python3"></a>
-### 4.1\. Regular Expressions Python3
+### 4.2\. Regular Expressions Python
 ![Alt text](./regular_expressions_python3_re.png?raw=true "")
-### 4.2\. Regular Expressions Java
+<a name="regular_expressions_java"></a>
+### 4.3\. Regular Expressions Java
 ![Alt text](./regular_expressions_java.png?raw=true "")
 <a name="regular_expressions_pcre"></a>
-### 4.3\. Regular Expressions PCRE
+### 4.4\. Regular Expressions PCRE
 ![Alt text](./regular_expressions_cheatsheet.png?raw=true "")
 
 
